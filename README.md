@@ -24,6 +24,20 @@ A production-ready template for building scalable Generative AI apps — structu
 - `examples/` – Implementations for guidance  
 - `notebooks/` – Interactive exploration and analysis  
 
+<p>
+  <a> <img src="https://github.com/rudreshveerappaji/template_generative_ai_project/blob/main/GenAIproject-template-1.png.jfif" /> </a>
+</p>
+
+<p align="center">
+  👋
+  <a 
+    <b> Diagram </b>
+  </a>
+</p>
+
+
+GenAIproject-template-1.png.jfif
+
 ---
 
 ## ⚡ Best Practices
